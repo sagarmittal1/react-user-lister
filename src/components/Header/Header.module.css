@@ -1,0 +1,20 @@
+.header {
+  background-color: #2bc5d9;
+  margin-bottom: 3rem;
+}
+
+.header h2 {
+  color: #f0ffff;
+  text-align: center;
+  margin: 0;
+  padding: 1rem;
+  font-size: 2rem;
+}
+
+.author {
+  font-size: 1rem;
+  font-style: italic;
+  margin-left: 1rem;
+  font-weight: 500;
+  color: #f0ffff;
+}
